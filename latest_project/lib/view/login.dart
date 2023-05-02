@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:latest_project/controller/home_state.dart';
-import 'package:latest_project/view/custom_button.dart';
-import 'package:latest_project/view/custom_textfield_password.dart';
-import 'package:latest_project/view/custom_textformfield.dart';
+import 'package:latest_project/view/components/custom_button.dart';
+import 'package:latest_project/view/components/custom_textfield_password.dart';
+import 'package:latest_project/view/components/custom_textformfield.dart';
 import 'package:provider/provider.dart';
 
 class Login extends StatefulWidget {
